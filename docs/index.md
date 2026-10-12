@@ -2,7 +2,7 @@
 
 > BitFlyer FX_BTC_JPY 自動売買ボット — ドンチャンブレイクアウト + GARCH戦略
 
-[![CI](https://github.com/ykus4/autoflyer/actions/workflows/ci.yml/badge.svg)](https://github.com/ykus4/autoflyer/actions/workflows/ci.yml)
+[![CI](https://github.com/qusamulab/autoflyer/actions/workflows/ci.yml/badge.svg)](https://github.com/qusamulab/autoflyer/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -70,7 +70,7 @@ source ~/.bashrc
 **2. クローン & 設定**
 
 ```bash
-git clone https://github.com/ykus4/autoflyer.git && cd autoflyer
+git clone https://github.com/qusamulab/autoflyer.git && cd autoflyer
 cp .env.example .env && nano .env
 ```
 

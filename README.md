@@ -2,7 +2,7 @@
 
 > BitFlyer FX_BTC_JPY 自動売買ボット — ドンチャンブレイクアウト + GARCH戦略
 
-[![CI](https://github.com/ykus4/autoflyer/actions/workflows/ci.yml/badge.svg)](https://github.com/ykus4/autoflyer/actions/workflows/ci.yml)
+[![CI](https://github.com/qusamulab/autoflyer/actions/workflows/ci.yml/badge.svg)](https://github.com/qusamulab/autoflyer/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -12,7 +12,7 @@
 
 ## ドキュメント
 
-📖 **[ドキュメントサイト](https://ykus4.github.io/autoflyer/)** — セットアップ・CLI・戦略・運用の完全ガイド
+📖 **[ドキュメントサイト](https://qusamulab.github.io/autoflyer/)** — セットアップ・CLI・戦略・運用の完全ガイド
 
 - [使い方ガイド](docs/index.md)
 - [バックテスト結果](docs/backtest-results.md)
@@ -20,7 +20,7 @@
 ## クイックスタート
 
 ```bash
-git clone https://github.com/ykus4/autoflyer.git && cd autoflyer
+git clone https://github.com/qusamulab/autoflyer.git && cd autoflyer
 uv sync
 cp .env.example .env          # APIキー・戦略設定を編集
 

@@ -1,8 +1,8 @@
 site_name: autoflyer
 site_description: BitFlyer FX_BTC_JPY 自動売買ボット — ドンチャンブレイクアウト + GARCH戦略
-site_url: https://ykus4.github.io/autoflyer
-repo_url: https://github.com/ykus4/autoflyer
-repo_name: ykus4/autoflyer
+site_url: https://qusamulab.github.io/autoflyer
+repo_url: https://github.com/qusamulab/autoflyer
+repo_name: qusamulab/autoflyer
 edit_uri: edit/main/docs/
 
 theme:
